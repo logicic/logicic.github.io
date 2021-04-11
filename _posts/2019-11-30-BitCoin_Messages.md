@@ -1,13 +1,14 @@
 ---
 layout:     post
-title:      bitcoin message
+title:      bitcoin messages
 subtitle:   bitcoin 报文格式
 date:       2019-11-30
 author:     logicic
 catalog: true
 tags:
-	- bitcoin
+    - blockchain
 ---
+
 
 # BitCoin 报文格式
 
