@@ -1,7 +1,7 @@
 # Site settings
 title: logicic Blog
 SEOTitle: logicic的博客 | logicic Blog
-header-img: img/dest-top.jpg
+header-img: img/desk-top.jpg
 email: logicix@126.com
 description: "It all depends on the fate. Everything is ok!"
 keyword: "hi"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/logicic/logicic.github.io" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "It all depends on the fate. Everything is ok!"
-sidebar-avatar: /img/sidebar-avatar-dds.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/sidebar-avatar-dds.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
