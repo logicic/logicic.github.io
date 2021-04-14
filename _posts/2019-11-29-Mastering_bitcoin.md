@@ -149,7 +149,7 @@ HD钱包提供了随机（不确定性）钥匙有两个主要的优势，
 - 2.他可以允许使用者去建立一个公共密钥的序列而不需要访问相对应的私钥。
 
 
-
+```sh
 从种子中创造HD钱包
 
 密码学上安全的
@@ -173,6 +173,7 @@ HD钱包提供了随机（不确定性）钥匙有两个主要的优势，
          \/
     
       助记码
+```
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191201114335800.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4OTYwODk5,size_16,color_FFFFFF,t_70)
 
 
